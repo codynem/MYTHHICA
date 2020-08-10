@@ -243,7 +243,7 @@ nav #menu li a:hover {
       line-height: 58px;
 }
 
-@media(max-width: 768px) {
+@media(max-width: 900px) {
       .header h1 {
             font-size: 18px;
       }
