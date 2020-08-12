@@ -301,12 +301,12 @@ h6 {
 }
 
 .project1 {
-      background: url(pexels-mati-mango-3820509.jpg) no-repeat 50% 50%;
+      background: url(pexels-mati-mango-3820509big.jpg) no-repeat 50% 50%;
       background-size: cover;
 }
 
 .project1::after {
-      content: "cottontail.";
+      content: 
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
@@ -324,7 +324,7 @@ h6 {
 }
 
 .project2::after {
-      content: "lil'b.";
+      content: 
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
@@ -342,7 +342,7 @@ h6 {
 }
 
 .project3::after {
-      content: "snugz.";
+      content: 
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
@@ -360,7 +360,7 @@ h6 {
 }
 
 .project4::after {
-      content: "smokey.";
+      content: 
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
