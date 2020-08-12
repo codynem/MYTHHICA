@@ -306,7 +306,7 @@ h6 {
 }
 
 .project1::after {
-      content: "Cottontail .";
+      content: "cottontail.";
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
@@ -324,7 +324,7 @@ h6 {
 }
 
 .project2::after {
-      content: "foretime.";
+      content: "lil'b.";
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
@@ -342,7 +342,7 @@ h6 {
 }
 
 .project3::after {
-      content: "never again.";
+      content: "snugz.";
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
@@ -360,7 +360,7 @@ h6 {
 }
 
 .project4::after {
-      content: "departure.";
+      content: "smokey.";
       font-family: "Roboto Mono";
       font-size: 36px;
       position: relative;
