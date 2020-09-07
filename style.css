@@ -78,8 +78,8 @@ nav {
 
 .image1{
     
-        max-width: 300px;
-  max-height: 300px;
+        max-width: 280px;
+  max-height: 250px;
        
       
 }
@@ -87,7 +87,7 @@ nav {
 nav #brand {
       float: left;
       display: block;
-      margin-left: 82px;
+      margin-left: 62px;
       /*line-height: 80px;
      font-size:22px;
       font-weight: 300;
