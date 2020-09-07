@@ -88,13 +88,9 @@ nav #brand {
       float: left;
       display: block;
       margin-left: 62px;
-      /*line-height: 80px;
-     font-size:22px;
-      font-weight: 300;
-      background: url(mlogo.jpg) no-repeat 50% 50%;
-      background-size: cover;*/
-      
+     
 }
+
 /*
 nav #brand a {
       color: #fff;
@@ -109,6 +105,7 @@ nav #menu {
       float: left;
       right: 80px;
       position: fixed;
+      margin-top: 100px;
 }
 
 nav #menu li {
