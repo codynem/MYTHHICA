@@ -105,12 +105,12 @@ nav #menu {
       float: left;
       right: 80px;
       position: fixed;
-      margin-top: 100px;
+      margin-top: 300px;
 }
 
 nav #menu li {
       padding-left: 40px;
-      margin-top: 100px;
+      margin-top: 300px;
       display: inline-block;
       cursor: pointer;
       font-weight: 300;
