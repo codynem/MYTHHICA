@@ -77,9 +77,11 @@ nav {
 }
 
 .image1{
-      display: inline-block;
+      float: left;
+      display: block;
         max-width: 300px;
   max-height: 300px;
+       margin-left: 82px;
       
 }
 /*
