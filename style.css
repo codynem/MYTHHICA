@@ -87,7 +87,7 @@ nav #brand {
       background-size: cover;
       
 }
-
+/*
 nav #brand a {
       color: #fff;
       transition: all 0.3s ease-out;
@@ -95,7 +95,7 @@ nav #brand a {
 
 nav #brand a:hover {
       text-decoration: none;
-}
+}*/
 
 nav #menu {
       float: left;
