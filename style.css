@@ -80,9 +80,12 @@ nav #brand {
       float: left;
       display: block;
       margin-left: 82px;
-      line-height: 80px;
+      /*line-height: 80px;
      font-size:22px;
-      font-weight: 300;
+      font-weight: 300;*/
+      background: url(mlogo.jpg) no-repeat 50% 50%;
+      background-size: cover;
+      
 }
 
 nav #brand a {
