@@ -6,7 +6,7 @@ html, body {
       width: 100%;
       height: 100%;
       font-family: "Roboto Mono" !important;
-      background: #0f0f0f !important;
+      background: #333 !important;
       color: #fff !important;
 }
 
@@ -313,6 +313,7 @@ h6 {
 .project1 {
       background: url(pexels-mati-mango-3820509big.jpg) no-repeat 50% 50%;
       background-size: cover;
+       box-shadow: 5px 5px 50px 5px;
 }
 
 .project1::after {
